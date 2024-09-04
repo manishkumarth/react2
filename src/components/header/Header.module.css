@@ -1,0 +1,11 @@
+.lists{
+  list-style-type: none;
+}
+ul li a{
+  text-decoration: none;
+}
+ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

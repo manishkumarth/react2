@@ -1,0 +1,34 @@
+form{
+    height: 380px;
+    width: 400px;
+   
+    border-radius: 15px;
+    /* margin: auto; */
+    margin-top: 20px;
+    box-shadow: 5px 5px 10px gray;
+    box-shadow: -5px -5px 10px gray;
+    
+}
+input{
+    width: 100%;
+   
+    margin-right: 40px;
+    
+}
+.mybtn{
+    width: 100%;
+    background-color: transparent;
+    font-size: 30px;
+    color: rgb(20, 19, 17);
+}
+.mybtn:hover{
+    background-color: deepskyblue;
+}
+label p{
+    text-align: center;
+    display: block;
+    color: red;
+}
+.myclass{
+    height: 450px;
+}
